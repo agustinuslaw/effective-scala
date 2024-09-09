@@ -1,0 +1,9 @@
+== README
+
+This project is a collection of codes and exercises in Coursera course "Effective Programming in Scala" by EPFL [1].
+
+
+
+=== Reference
+
+* [1] https://www.coursera.org/learn/effective-scala
