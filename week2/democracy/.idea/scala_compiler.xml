@@ -3,5 +3,8 @@
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="false" />
     <profile name="sbt 1" modules="democracy_477" />
+    <profile name="sbt 2" modules="effective-scala-democracy">
+      <option name="deprecationWarnings" value="true" />
+    </profile>
   </component>
 </project>
